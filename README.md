@@ -27,11 +27,11 @@
 
 4. [*"Basic usage of PMRs for better performance"*](./Basic&#32;usage&#32;of&#32;PMRs&#32;for&#32;better&#32;performance.pdf), Meeting C++ Conference 2022, 17-19.11.2022
 <br/><br/>
-  This presentation is targeted beginner and intermediate programmers. 
+  This presentation is targeted at beginner and intermediate programmers. 
   It starts with explanation of the role of memory allocators and the design of Allocators in STL.
   Then it discusses what problems are PMRs supposed to solve and how they are implemented in C++17's standard library.
-  Then we show 5 scenarions where usage of PMRs is likely to improve performance and show how this can be done.
-  At last we discuss tuining and customization techniques in jemalloc and compare them to usage of PMRs.
+  After thet we show 5 scenarions where usage of PMRs is likely to improve performance and explain how this can be done.
+  At last we discuss tuining and customization techniques in *jemalloc* and compare them to PMR techniques.
 
 
   example code: also [*"PmrTests.cpp"*](./PmrTests.cpp)
