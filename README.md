@@ -9,7 +9,7 @@
   At last we discuss tuining and customization techniques in *jemalloc* and compare them to PMR techniques.
 
   example code: [*"PmrTests-2022.cpp"*](./PmrTests-2022.cpp) - tests using buffer traces and debug allocator outputs(!)
-
+<br/><br/>
 
 - [*"Two Advanced PMR Techniques in C++17-20"*](./Two&#32;advanced&#32;PMR&#32;techniques.pdf), Meeting C++ Conference 2021, 10-12.11.2021
 <br/><br/>
@@ -21,7 +21,7 @@
   We discuss **the UB question** and the interplay between PMRs and smart pointers.
 
   example code: also [*"PmrTests.cpp"*](./PmrTests.cpp)
-
+<br/><br/>
 
 - [*"PMRs for Performance in C++17-20"*](./PMRs&#32;for&#32;performance.pdf), C++Italy 2021 - Italian C++ Conference 2021, 19.06.2021
 <br/><br/>
@@ -31,7 +31,7 @@
   At last we introduce two advanced techniques enabled by PMRs: wink-out and localized GC in graphs.
 
   example code: [*"PmrTests.cpp"*](./PmrTests.cpp)
-
+<br/><br/>
 
 - [*"EMMA Software Architecture Pattern for Embedded Systems"*](./EMMA&#32;architectural&#32;pattern.pdf), emBO++ 2021 | the embedded c++ conference in Bochum, 25.-27.03.2021 
 <br/><br/>
